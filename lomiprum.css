@@ -1,0 +1,14 @@
+.khung{
+	width: 1200px;
+	height: 1500px;
+	margin: 0 auto;
+	background: orange;
+}
+.khung .boximg{
+	float: left;
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
+	background: gray;
+
+}
