@@ -61,3 +61,156 @@
 	height: 100%;
 
 }
+.box-img{
+	width: 1200px;
+	height: 500px;
+	background: orange;
+	margin: 0 auto;
+}
+.box-img .box{
+	float: left;
+	width: 50%;
+	height: 100%;
+	background: green;
+	opacity: 0.7;
+}
+.box-img .box h3{
+	margin: 0 auto;
+	padding: 10px 0;
+	width: 100%;
+	height: 80px;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 80px;
+	font-size: 40px;
+}
+.box .line{
+	float: left;
+	margin-left: 150px;
+	width: 50%;
+	height: 3px;
+	background: white;
+}
+.box p{
+	display: block;
+	float: left;
+	margin: 0 auto;
+	padding: 15px 0;
+	width: 100%;
+	height: 350px;
+	color: white;
+	
+	font-size: 30px;
+}
+.box-img .img{
+	float: left;
+	width: 50%;
+	height: 100%;
+	background: green;
+}
+.box-img .img img{
+	
+	width: 100%;
+	height: 100%;
+
+}
+.Box{
+	margin-left: 18px;
+	width: 310px;
+	height: 299px;
+	background: #d55c23;
+	float: left;
+
+}
+.khung .Box h3{
+	margin:0px;
+	width: 310px;
+	height: 40px;
+	float: left;
+	text-align: center;
+	line-height: 40px;
+	    font-size: 29px;
+    font-family: monospace;
+    color: #fff;
+}
+.khung .Box .line{
+    width: 259px;
+    height: 2px;
+    background: #ccc;
+    float: left;
+    margin-left: 31px;
+    margin-top: 5px;
+}
+.Box p{
+    text-align: center;
+    width: 250px;
+    height: 175px;
+    float: left;
+    margin-left: 32px;
+    font-size: 17px;
+    color: #FFF;
+
+}
+.Box h4{
+    width: 114px;
+    height: 30px;
+    float: left;
+    background: #fff;
+    margin-left: 93px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 11px;
+    margin-top: -3px;
+}
+.Box h4 a{
+	text-decoration:none;
+	 color: #d55c23;
+}
+.boxbottom{
+	margin: 0;
+	float: left;
+	width: 1200px;
+	height: 100px;
+}
+.boxbottom .biltop{
+	margin: 10px 420px;
+    float: left;
+    width: 1200px;
+    height: 20px;
+}
+.biltop p{
+	float: left;
+	margin: 0;
+	font-size: 15px;
+	color: gray;
+	padding: 5px;
+	display: block;
+}
+.biltop .line {
+	margin: 5px;
+	width: 2px;
+	height: 15px;
+	background: gray;
+	float: left;
+}
+.biltop a{
+	float: left;
+    padding: 5px;
+    color: gray;
+    font-size: 15px;
+}
+.boxbottom .bilbottom{
+	margin: 0px 500px;
+	float: left;
+	width: 200px;
+	height: auto;
+}
+.bilbottom a{
+	float: left;
+	padding: 5px;
+	color: gray;
+	font-size: 15px;
+
+}
