@@ -1,0 +1,295 @@
+.khung{
+	width: 1000px;
+	height:1500px;
+	margin: 0 auto;
+	background: white;
+}
+.khung .k1{
+	width: 100%;
+	height: 200px;
+	background: yellow;
+}
+.k1 .a1{
+	width: 100%;
+	height: 150px;
+}
+.a1 h1.h1{
+	width: 48.5%;
+	height: 100%;
+	font-size: 40px;
+	float: left;
+	color: black;
+	text-transform: uppercase;
+	padding: 0px 0px 0px 25px;
+	line-height: 125px;
+	background: yellow;
+	margin: 0;
+	font-family: arial;
+}
+.k1 .z1{
+	float: left;
+	width: 49%;
+	height: 150px;
+	background: yellow;
+}
+.z1 .x1{
+	width: 55%;
+	height: 90px;
+	float: right;
+	margin: 50px 40px 30px 250px;
+}
+.x1 .pic1{
+	margin: 0px 
+	width: 100px;
+	height: 50px;
+	float: left;
+}
+.x1 p.p1{
+	float: left;
+	font-size: 27px;
+	font-family: arial;
+}
+.k1 .a2{
+	width: 100%;
+	height: 50px;
+	background: black;
+}
+.a2 ul.ul1{
+	width: 100%;
+	height: 50px;
+	border-radius: 10px;
+}
+.a2 li.l2  a.ab1 .pic2{
+	width: 100%;
+	height: 50px;
+	font-family: arial;
+}
+.a2 li.li1{
+	float: left;
+	border-radius: 10px;
+	font-family: arial;
+	width:20%;
+	height: 50px;
+	margin-left: -40px;
+	background: black;
+	line-height: 50px;
+}
+.a2 a.ab1{
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	font-family: arial;
+	text-transform: capitalize;
+	list-style-type: none;
+}
+.a2 a.ab1:hover{
+	color: red;
+	font-family: arial;
+}
+.khung .line1{
+	width: 100%;
+	height: 10px;
+	background: white;
+}
+.klhung .k2{
+	border-radius: 10px;
+	width: 100%;
+	height: 500px;
+}
+.k2 .pic2{
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+}
+.khung .k3{
+	width: 100%;
+	height: 250px;
+}
+.k3 .b1{
+	float: left;
+	width: 32.65%;
+	height: 250px;
+	background: yellow;
+	border-radius: 20px;
+}
+.b1 h1.h2{
+	float: left;
+	width: 100%;
+	height: 50px;
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 37px;
+	line-height:-65px;
+	color: white;
+	font-family: arial;
+}
+.b1 .ba1{
+	float: left;
+	width: 100%;
+	height: 200px;
+	background: black;
+	border-radius: 20px;
+	font-family: arial;
+}
+.ba1 h1.h3{
+	float: left;
+	margin: 10px;
+	text-align: left;
+	font-family: arial;
+	text-transform: capitalize;
+	font-size: 18px;
+	color: white;
+}
+.ba1 p.p2{
+	color: white;
+	font-family: arial;
+	float: left;
+	margin: 0;
+	text-align: left;
+	text-transform: capitalize;
+	font-size: 15px;
+}
+.ba1 a.a2{
+	float: left;
+	width: 60%;
+	height: 75px;
+	font-family: arial;
+	margin: 50px 20% 10px 20%;
+	background: white;
+	text-transform: capitalize;
+	text-align: center;
+	border-radius: 25px;
+	color: black;
+	font-size: 24px;
+	line-height: 75px;
+	text-decoration: none;
+}
+.khung .k4{
+	clear: both;
+	margin-top:25px;
+	width: 100%;
+	height: 350px;
+}
+.k4 .c1{
+	float: left;
+	width: 70%;
+	height: 350px;
+}
+.c1 h1.h4{
+	font-size: 50px;
+	text-align: left;
+	text-transform: uppercase;
+	color: yellow;
+	font-family: arial;
+}
+.c1 p.p3{
+	width: 100%;
+	height: auto;
+	margin: 0;
+	font-size: 30px;
+	color: black;
+	text-transform: capitalize;
+	text-align: left;
+	font-family: arial;
+}
+.c1 p.p4{
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	font-size: 25px;
+	color: black;
+	text-transform: capitalize;
+	text-align: left;
+}
+.k4 .c2{
+	float: left;
+	width: 30%;
+	height: 350px;
+	margin-bottom:50px;
+}
+.c2 h1.h5{
+	text-align: left;
+	text-transform: capitalize;
+	font-size: 40px;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	font-family: arial;
+}
+.c2 .da1{
+	width: 100%;
+	height: 125px;
+}
+.da1 .pic3{
+	float: left;
+	width: 125px;
+	height: 125px;
+}
+.da1 h1.h6{
+	width: auto;
+	height: auto;
+	text-transform: capitalize;
+	text-align: left;
+	font-family: arial;
+	font-size: 20px;
+}
+.da1 p.p5{
+	margin: 0;
+	font-family: arial;
+	text-transform: capitalize;
+	text-align: left;
+	font-size: 18px;
+	width: auto;
+	height: auto;
+	padding-bottom: 10px;
+}
+.khung .k5{
+	clear: both;
+	width: 100%;
+	height: 150px;
+	background: black;
+	border-radius: 20px;
+}
+.k5 .e1{
+	clear: both;
+	float: left;
+	margin: 0px 30% 0px 30%;
+	width: 40%;
+	height: 100%;
+}
+.e1 .eq1{
+	width: 100%;
+	height: 75px;
+}
+.eq1 h1.h7{
+	width: 100%;
+	height: 75px;
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	font-family: arial;
+}
+.e1 .eq2{
+	float: left;
+	width: 100%;
+	height: 75px;
+	margin: 0px 25% 0px 25%;
+}
+.eq2 .eq21{
+	float: left;
+	width: 50px;
+	height: 50px;
+	margin-left: 10px;
+}
+.eq21  a.ab2{
+	width: 50px;
+	height: 50px;
+
+}
+.eq21 .pic4{
+
+	width: 50px;
+	height: 50px;
+}
