@@ -1,0 +1,22 @@
+.khung{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+	background: orange;
+}
+.khung .boxtoptd{
+	width: 1000px;
+	height: 150px;
+	background: ;
+}
+.khung .boxtoptd h2{
+	float: left;
+	font-size: 40px;
+	margin-left: 10px;
+}
+p{
+	clear: both;
+	float: left;
+	font-size: 35px;
+	margin: -30px 0px 0px 10px;
+}
