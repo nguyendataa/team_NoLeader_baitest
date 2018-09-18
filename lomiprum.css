@@ -4,60 +4,60 @@
 	margin: 0 auto;
 	background: orange;
 }
-.boxtoptd
-{	margin: auto;
-	width: 100%;
-	height: 10%;
-	background: #3f1c0a;
-}
+.box-img{
+	width: 1200px;
+	height: 500px;
+	background: orange;
+	margin: 0 auto;
 
-.biltieude
-{	float: left;
-	margin: auto;
-	width: 50%;
-	height: 100%;
-	background:#3f1c0a;
-}
 
-.bilmenu
-{	float: left;
-	margin: auto;
-	width: 50%;
-	height: 100%;
-	background:#3f1c0a;
 }
-.bilmenu ul
-{	
-	width: 100%;
-	height: 200px;
+.box-img .box{
 	float: left;
-	
-	margin: auto;
-	
-	list-style-type: none;
-	text-align: center;
+	width: 50%;
+	height: 100%;
+	background: green;
+	opacity: 0.7;
+
 }
-.bilmenu ul li
-{	
-	padding-right: 10px;
-	margin:auto;
-	display: inline-table;
-	
-	padding-top: 60px;
-	
+.box-img .box h3{
+	margin: 0 auto;
+	padding: 10px 0;
+	width: 100%;
+	height: 80px;
+	color: white;
 	text-align: center;
+	text-transform: uppercase;
+	line-height: 80px;
+	font-size: 40px;
 }
-.bilmenu ul li a
-{	
-	width: 90px;
-	color:#fffdfc;
-	font-size: 15px;
-	text-decoration: none;
+.box .line{
+	float: left;
+	margin-left: 150px;
+	width: 50%;
+	height: 3px;
+	background: white;
+}
+.box p{
 	display: block;
+	float: left;
+	margin: 0 auto;
+	padding: 15px 0;
+	width: 100%;
+	height: 350px;
+	color: white;
 	
+	font-size: 30px;
 }
-.bilmenu ul li a:hover
-{
-	width: 100px;
-	background: yellow;
+.box-img .img{
+	float: left;
+	width: 50%;
+	height: 100%;
+	background: green;
+}
+.box-img .img img{
+	
+	width: 100%;
+	height: 100%;
+
 }
