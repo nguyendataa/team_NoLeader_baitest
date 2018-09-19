@@ -1,0 +1,46 @@
+.boxbottom{
+	margin: 0;
+	float: left;
+	width: 1200px;
+	height: 100px;
+}
+.boxbottom .biltop{
+	margin: 10px 420px;
+    float: left;
+    width: 1200px;
+    height: 20px;
+}
+.biltop p{
+	float: left;
+	margin: 0;
+	font-size: 15px;
+	color: gray;
+	padding: 5px;
+	display: block;
+}
+.biltop .line {
+	margin: 5px;
+	width: 2px;
+	height: 15px;
+	background: gray;
+	float: left;
+}
+.biltop a{
+	float: left;
+    padding: 5px;
+    color: gray;
+    font-size: 15px;
+}
+.boxbottom .bilbottom{
+	margin: 0px 500px;
+	float: left;
+	width: 200px;
+	height: auto;
+}
+.bilbottom a{
+	float: left;
+	padding: 5px;
+	color: gray;
+	font-size: 15px;
+
+}
