@@ -1,0 +1,59 @@
+.khung{
+	margin: 0 auto;
+	background: red;
+	width: 1000px;
+	height: 400px;
+}
+.khung .Box{
+	margin-left: 18px;
+	width: 310px;
+	height: 299px;
+	background: #d55c23;
+	float: left;
+
+}
+.khung .Box h3{
+	margin:0px;
+	width: 310px;
+	height: 40px;
+	float: left;
+	text-align: center;
+	line-height: 40px;
+	    font-size: 29px;
+    font-family: monospace;
+    color: #fff;
+}
+.khung .Box .line{
+    width: 259px;
+    height: 2px;
+    background: #ccc;
+    float: left;
+    margin-left: 31px;
+    margin-top: 5px;
+}
+.Box p{
+    text-align: center;
+    width: 250px;
+    height: 175px;
+    float: left;
+    margin-left: 32px;
+    font-size: 17px;
+    color: #FFF;
+
+}
+.Box h4{
+    width: 114px;
+    height: 30px;
+    float: left;
+    background: #fff;
+    margin-left: 93px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 11px;
+    margin-top: -3px;
+}
+.Box h4 a{
+	text-decoration:none;
+	 color: #d55c23;
+}
