@@ -164,13 +164,12 @@ p.pboximg{
     font-family: monospace;
     color: #fff;
 }
-.khung .Box .line{
+.khung .Box .lineg{
     width: 259px;
     height: 1px;
-    background: #ccc;
+    background: white;
     float: left;
     margin-left: 11px;
-    margin-top: 5px;
 }
 .Box p{
     text-align: center;
