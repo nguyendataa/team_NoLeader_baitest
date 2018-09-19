@@ -15,7 +15,18 @@
 	float: left;
 	width: 60%;
 	height: 300px;
-	background: #441c10;
+	background: #25252D;
+}
+a
+{
+	background: yellow;
+	margin-left: 20px;
+	font-size: 30px;
+	text-decoration: none;
+}
+a:hover
+{
+	background: red;
 }
 .Boxmidthechenvaanh .bilhinhanh
 {	margin: auto;
