@@ -1,0 +1,41 @@
+.boxduoi{
+	width: 1000px;
+	height: 1000px;
+	margin: 0 auto;
+	background: grey;
+}
+.boxduoi .boxduoi_dau{
+	width: 100%;
+	height: 500px;
+	background: green;
+}
+.boxduoi .boxduoi_giua{
+	width: 100%;
+	height: 450px;
+	background: white;
+}
+.boxduoi .boxduoi_cuoi{
+	width: 100%;
+	height: 50px;
+	background: black;
+}
+.boxduoi .boxduoi_cuoi h1.daucuoidong{
+	color: white;
+	text-transform: capitalize;
+	font-size: 20px;
+	text-align: center;
+	float: left;
+	margin-left: 125px;
+}
+.boxduoi .boxduoi_cuoi h1.giuacuoidong{
+	color: white;
+	text-transform: capitalize;
+	font-size: 20px;
+	float: left;
+}
+.boxduoi .boxduoi_cuoi h1.ketthuccuoidong{
+	float: left;
+	color: white;
+	text-transform: uppercase;
+	font-size: 20px;
+}

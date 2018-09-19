@@ -1,0 +1,107 @@
+.boxduoi{
+	width: 1000px;
+	height: 1000px;
+	margin: 0 auto;
+	background: grey;
+}
+
+.boxduoi .boxduoi_dau{
+	width: 100%;
+	height: 500px;
+	background: green;
+}
+
+.boxduoi .boxduoi_giua{
+	width: 100%;
+	height: 450px;
+	background: white;
+	float: left;
+	margin-top: -2px;
+}
+.boxduoi_giua .billimg{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.billimg .pic1{
+	width: 100%;
+	height: 100%;
+}
+.boxduoi_giua .billnoidung{
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+.billnoidung h1.tennoidung{
+	font-size: 50px;
+	text-transform: uppercase;
+	text-align: left;
+	font-family: arial;
+}
+.billnoidung p.chitiet{
+	float: left;
+	margin-top: -40px;
+	font-size: 24px;
+	text-align: left;
+	font-family: arial;
+}
+.billnoidung a.lienket1{
+	width: 150px;
+	height: 50px;
+	float: left;
+	background: yellow;
+	color: white;
+	font-size: 24px;
+	text-decoration: none;
+	font-family: arial;
+	text-align: center;
+	line-height: 50px;
+}
+.billnoidung a.lienket1:hover{
+	color: red;
+	background: green;
+}
+.billnoidung a.lienket2{
+	width: 150px;
+	height: 50px;
+	float: left;
+	margin-left: 15px;
+	background: grey;
+	color: white;
+	font-size: 24px;
+	text-decoration: none;
+	font-family: arial;
+	text-align: center;
+	line-height: 50px;
+}
+.billnoidung a.lienket2:hover{
+	color: red;
+	background: green;
+}
+
+.boxduoi .boxduoi_cuoi{
+	clear: both;
+	width: 100%;
+	height: 50px;
+	background: black;
+}
+.boxduoi .boxduoi_cuoi h1.daucuoidong{
+	color: white;
+	text-transform: capitalize;
+	font-size: 20px;
+	text-align: center;
+	float: left;
+	margin-left: 125px;
+}
+.boxduoi .boxduoi_cuoi h1.giuacuoidong{
+	color: white;
+	text-transform: capitalize;
+	font-size: 20px;
+	float: left;
+}
+.boxduoi .boxduoi_cuoi h1.ketthuccuoidong{
+	float: left;
+	color: white;
+	text-transform: uppercase;
+	font-size: 20px;
+}
