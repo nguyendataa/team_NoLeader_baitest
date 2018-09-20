@@ -1,0 +1,90 @@
+.khung{
+	margin: 0 auto;
+	background: red;
+	width: 1000px;
+	height: 500px;
+}
+.khung .box{
+	margin: 0;
+	float: left;
+	width: 1000px;
+	height: 300px;
+}
+.box .Boxinh{
+	float: left;
+	width: 100%;
+	height: 300px;
+	background: black;
+	margin-top: -300px;
+}
+.box img{
+	float: left;
+	width: 100%;
+	height: 100%;
+	opacity: 0.2;
+}
+.box h3{
+	float: left;
+	width: 100%;
+	height: 30px;
+	font-size: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+}
+.box p{
+    float: left;
+    width: 660px;
+    height: 80px;
+    margin-top: -30px;
+    margin-left: 180px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    font-size: 17px;
+}
+.box .tron{
+    float: left;
+    width: 1000px;
+    margin-top: -40px;
+    margin-left: 13px;
+    height: 200px;
+}
+.tron .tron1{
+	float: left;
+	margin: 30px;
+	width: 100px;
+	height: 100px;
+	border-radius: 70px;
+	border: 4px solid white;
+}
+.tron1 h4{
+	float: left;
+    margin: 13px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 45px;
+    color: white;
+
+}
+.tron1 h5{
+	    float: left;
+    margin: 12px;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+}
+.tron .line{
+	float: left;
+	margin: 0px;
+	width: 100px;
+	height: 2px;
+	background: white;
+	border-bottom: 2px solid #ccc;
+	margin-top: 81px;
+}
